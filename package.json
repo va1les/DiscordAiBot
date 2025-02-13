@@ -1,0 +1,47 @@
+{
+	"name": "discordbot-template",
+	"version": "1.3.1",
+	"description": "Discord Bot Template V14.17.3",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/va1les/DiscordAiBot"
+	},
+	"keywords": [
+		"mongodb",
+		"mongoose",
+		"discord",
+		"discordjs",
+		"discord-bot",
+		"discord-js",
+		"discord-bot-template",
+		"bot-template",
+		"discord-handler",
+		"discordjs-v14",
+		"discord-js-handler-v14",
+		"discord-v14"
+	],
+	"author": {
+		"name": "va1les",
+		"url": "https://github.com/va1les"
+	},
+	"contributors": [],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/va1les/DiscordAiBot/issues"
+	},
+	"homepage": "https://github.com/va1les/DiscordAiBot#readme",
+	"dependencies": {
+		"axios": "^1.7.9",
+		"colors": "^1.4.0",
+		"discord.js": "^14.17.3",
+		"dotenv": "^16.4.7",
+		"fs": "^0.0.1-security",
+		"i18next": "^23.10.0",
+		"mongoose": "^7.0.2",
+		"ms": "^2.1.3"
+	}
+}

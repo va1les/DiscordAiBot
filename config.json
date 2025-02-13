@@ -1,0 +1,10 @@
+{
+	"token": "YOUR_DISCORD_BOT_TOKEN",
+	"mongo_url": "YOUR_MONGODB_URL",
+	"clientId": "YOUR_CLIENT_ID",
+	"guildId": "YOUR_GUILD_ID",
+	"mistral_api_key": "MISTRAL_API_KEY",
+	"developers": [
+		"USER_ID_1"
+	]
+}
